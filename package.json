@@ -25,7 +25,7 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-changeset": "2.2.4",
+    "ember-changeset": "github:bekzod/ember-changeset#0474e12ceb01ea9b47e782cdec0adc4e71583520",
     "ember-cli-babel": "^7.1.2",
     "ember-cli-htmlbars": "^3.0.0",
     "ember-get-config": "^0.2.4",
